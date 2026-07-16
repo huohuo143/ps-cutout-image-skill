@@ -1,0 +1,8 @@
+# Tested dependency set for Python 3.11-3.13.
+# rembg[cpu] installs the CPU ONNX Runtime backend used by this skill.
+numpy==2.4.4
+Pillow==12.2.0
+scipy==1.17.1
+opencv-python-headless==4.13.0.92
+psd-tools==1.17.2
+rembg[cpu]==2.0.76

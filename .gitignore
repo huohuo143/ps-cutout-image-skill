@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+runtime.json
+*.onnx
+
+*_cutout.psd
+*_clean_black.png
+*_cutout_transparent*.png
+*_compare*.jpg
+*_alpha_mask*.png
+*_white_edge_check*.jpg
+*_cutout_QA_report.json
